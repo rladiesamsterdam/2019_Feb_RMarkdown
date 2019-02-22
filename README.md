@@ -1,7 +1,7 @@
 # 2019_Feb_RMarkdown
 
-Material for the R- Ladies Amsterdam efficient programming in R workshop
+Material for the R- Ladies Amsterdam R-Markdown event by Martine Jansen. 
 
-Workshop material for the sixth R- Ladies Amsterdam meetup on 11th December 2018.
+Workshop material for the sevent R- Ladies Amsterdam meetup on 21st February 2019.
 
-Repository includes the presentation & corresponding workshop code.
+Repository includes the presentation, the word cheat sheet with the code and the final RMarkdown document.
